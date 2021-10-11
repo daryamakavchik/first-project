@@ -1,0 +1,5 @@
+.link {
+  color:#2f80ed;
+  transition: opacity .4s ease;
+  cursor:  pointer;
+}
