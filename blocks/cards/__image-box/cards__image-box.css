@@ -1,0 +1,10 @@
+.cards__image-box {
+  box-sizing: border-box;
+  width: 240px;
+  height: 220px;
+  padding-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 0px;
+  margin-bottom: 43px;
+}

@@ -1,9 +1,9 @@
 .page {
-    min-width: 1100px;
-    max-width: 1600px;
-    margin: 0 auto;
-    font-family:'Helvetica Neue', Arial, sans-serif;
-    display: grid;
-    row-gap: 100px;
-    background-color: #ffffff;
-  }
+  min-width: 1100px;
+  max-width: 1600px;
+  display: grid;
+  row-gap: 100px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  font-family: "Inter", Arial, sans-serif;
+}
