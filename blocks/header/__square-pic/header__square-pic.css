@@ -3,8 +3,8 @@
   width: 568px;
   background: #2f80ed;
   position: absolute;
+  transform: rotate(15deg);
   top: 64px;
   right: 0px;
   z-index: 1;
-  animation: rotation 20s linear infinite forwards running;
 }

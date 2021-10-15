@@ -42,8 +42,6 @@
 
 @import url(../blocks/techniques/tecnhiques.css);
 
-@import url(../blocks/techniques/__content/tecnhiques__content.css);
-
 @import url(../blocks/section-title/section-title.css);
 
 @import url(../blocks/section-subtitle/section-subtitle.css);
@@ -52,17 +50,11 @@
 
 @import url(../blocks/cards/__item/cards__item.css);
 
-@import url(../blocks/cards/__image-box/cards__image-box.css);
-
-@import url(../blocks/cards/__image-box/cards__image/cards__image.css);
+@import url(../blocks/cards/__image/cards__image.css);
 
 @import url(../blocks/cards/__title/cards__title.css);
 
 @import url(../blocks/cards/__description/cards__description.css);
-
-@import url(../blocks/cards/__item/__item-recall/cards__item-recall.css);
-
-@import url(../blocks/cards/__item/__item-competence/cards__item-competence.css);
 
 @import url(../blocks/video/video.css);
 
@@ -118,7 +110,7 @@
 
 @import url(../blocks/kaufman/kaufman.css);
 
-@import url(../blocks/kaufman/triangle/kaufman__triangle.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 
@@ -130,13 +122,9 @@
 
 @import url(../blocks/table/__text/_theme/table__text_theme_dark.css);
 
-@import url(../blocks/kaufman/triangle/triangle.css);
-
 @import url(../blocks/rotation/rotation.css);
 
 @import url(../blocks/resources/resources.css);
-
-@import url(../blocks/resources/__content/resources__content.css);
 
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 

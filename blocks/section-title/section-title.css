@@ -2,16 +2,10 @@
   position: relative;
   width: 60%;
   font-size: 60px;
-  font-style: bolder;
+  font-style: 600;
   line-height: 1.15;
   text-align: center;
+  padding: 0;
   margin: 0 auto;
   z-index: 2;
-}
-
-:-webkit-any(article, aside, nav, section) h1 {
-  margin-bottom: 0px;
-  font-size: 60px;
-  font-style: bolder;
-  line-height: 1.15;
 }
