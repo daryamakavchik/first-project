@@ -42,7 +42,7 @@
 
 @import url(../blocks/techniques/tecnhiques.css);
 
-@import url(../blocks/techniques/content/tecnhiques__content.css);
+@import url(../blocks/techniques/__content/tecnhiques__content.css);
 
 @import url(../blocks/section-title/section-title.css);
 
@@ -68,6 +68,8 @@
 
 @import url(../blocks/video/__iframes/video__iframes.css);
 
+@import url(../blocks/video/__iframe/video__iframe.css);
+
 @import url(../blocks/oakley/oakley.css);
 
 @import url(../blocks/digits/digits.css);
@@ -76,7 +78,7 @@
 
 @import url(../blocks/table/__cell/table__cell.css);
 
-@import url(../blocks/table/__cell/_place/table__cell_place_kaufman.css);
+@import url(../blocks/table/__cell/);
 
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
@@ -115,6 +117,8 @@
 @import url(../blocks/feynman/img/feynman__img.css);
 
 @import url(../blocks/kaufman/kaufman.css);
+
+@import url(../blocks/kaufman/triangle/kaufman__triangle.css);
 
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 

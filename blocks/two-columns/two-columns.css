@@ -4,5 +4,6 @@
   align-items: baseline;
   margin: 0 auto;
   width: 80%;
+  min-width: 784px;
   font-size: 24px;
 }
