@@ -16,5 +16,4 @@
 ## Планы по доработке
 * Адаптировать сайт для просмотра на различных устройствах
 
-## Ссылка на сайт
-https://daryamakavchik.github.io/how-to-learn/
+#### [Ссылка на сайт](https://daryamakavchik.github.io/how-to-learn/)
