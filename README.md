@@ -3,7 +3,7 @@
 
 Одностраничный сайт, разработанный в рамках обучения в Яндекс Практикум.
 
-https://user-images.githubusercontent.com/90967822/198940553-46a4b744-f37f-4123-99be-7235ded31171.mp4
+https://user-images.githubusercontent.com/90967822/198940979-27c4ae47-09a3-4345-a5b3-f01556f16d5b.mp4
 
 ## Стек
 * HTML
