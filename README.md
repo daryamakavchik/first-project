@@ -2,7 +2,7 @@
 
 #### [GitHub Pages Link] (https://daryamakavchik.github.io/how-to-learn/)
 
-https://user-images.githubusercontent.com/90967822/198940979-27c4ae47-09a3-4345-a5b3-f01556f16d5b.mp4
+https://user-images.githubusercontent.com/90967822/225161358-84bcfe5b-38e0-4db5-ac6b-21f82d7f013e.mp4
 
 ## Description
 "How to learn" is a portfolio project created as an assignment for [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program"). It is a single-page website about effective study methods and learning strategies.
