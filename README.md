@@ -1,6 +1,6 @@
 # "How to learn"
 
-#### [GitHub Pages Link] (https://daryamakavchik.github.io/how-to-learn/)
+#### [GitHub Pages](https://daryamakavchik.github.io/how-to-learn/)
 
 https://user-images.githubusercontent.com/90967822/225161358-84bcfe5b-38e0-4db5-ac6b-21f82d7f013e.mp4
 
