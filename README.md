@@ -9,7 +9,17 @@ https://user-images.githubusercontent.com/90967822/225161358-84bcfe5b-38e0-4db5-
 "How to learn" is a portfolio project created as an assignment for [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program"). It is a single-page website about effective study methods and learning strategies.
 
 ## Tech stack
-HTML5 | CSS3 | BEM Methodology, File Structure and File Paths (Nested BEM) | CSS Animations | Youtube API
+![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+## Implementation
+
+- Flexbox
+- Grid Layout
+- CSS Animations
+- YouTube API
+- Media-queries
+- BEM Nested file structure
 
 ## Installation
 
