@@ -1,6 +1,7 @@
 # "How to learn"
 
 #### [GitHub Pages](https://daryamakavchik.github.io/how-to-learn/)
+#### [Figma](https://www.figma.com/file/4Xj9xAwUzLNv6W7AEVcMnx/long-brief?type=design&node-id=11900-113&t=utuWBBK7Ot7hW0JS-0)
 
 https://user-images.githubusercontent.com/90967822/225161358-84bcfe5b-38e0-4db5-ac6b-21f82d7f013e.mp4
 
