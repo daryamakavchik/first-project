@@ -3,7 +3,7 @@
 #### [GitHub Pages](https://daryamakavchik.github.io/how-to-learn/)
 #### [Figma](https://www.figma.com/file/4Xj9xAwUzLNv6W7AEVcMnx/long-brief?type=design&node-id=11900-113&t=utuWBBK7Ot7hW0JS-0)
 
-![demo3](https://github.com/daryamakavchik/how-to-learn/assets/90967822/03e74e0d-e0c3-4862-95c1-a847b4953d55)
+![demo3](https://github.com/daryamakavchik/how-to-learn/assets/90967822/8a53e9fc-a4f9-409c-9ee6-57c5658845b4)
 
 ## Description
 "How to learn" is a portfolio project created as an assignment for [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program"). It is a single-page website about effective study methods and learning strategies.
