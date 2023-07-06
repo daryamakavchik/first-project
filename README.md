@@ -9,7 +9,7 @@
 <img width="641" alt="page" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/b615ccf1-720b-4502-b2ed-0eb10b8a897d">
 <img width="641" alt="page2" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/0e21b272-5d48-4820-ba36-54f527db9e30">
 <img width="641" alt="page3" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/01fba34f-b276-479d-9b9d-db5c6393cd1e">
-<img width="641" alt="page4" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/04cac7f5-ce7d-4a51-8a4a-8058d069ff4e">
+<img width="641" alt="page4" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/ff3b1013-bf05-4a71-ac8b-d4c11e525ebd">
 
 
 ## Tech stack
