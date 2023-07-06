@@ -7,7 +7,7 @@
 "How to learn" is a portfolio project created as an assignment for [Yandex.Practicum](https://practicum.yandex.com/web/ "Web Development Program"). It is a single-page website about effective study methods and learning strategies.
 
 <img width="641" alt="page" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/b615ccf1-720b-4502-b2ed-0eb10b8a897d">
-<img width="641" alt="page2" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/440b8643-e074-49a1-9715-4053fb24f3eb">
+<img width="641" alt="page2" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/0e21b272-5d48-4820-ba36-54f527db9e30">
 <img width="641" alt="page3" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/01fba34f-b276-479d-9b9d-db5c6393cd1e">
 
 ## Tech stack
