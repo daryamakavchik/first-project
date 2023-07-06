@@ -8,7 +8,9 @@
 
 <img width="641" alt="page" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/b615ccf1-720b-4502-b2ed-0eb10b8a897d">
 <img width="641" alt="page2" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/0e21b272-5d48-4820-ba36-54f527db9e30">
-<img width="641" alt="page3" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/01fba34f-b276-479d-9b9d-db5c6393cd1e">
+<img width="641" alt="page3" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/11bb02da-56d0-4e21-8b30-be61f9a8d51b">
+<img width="641" alt="page4" src="https://github.com/daryamakavchik/how-to-learn/assets/90967822/0094d793-10dc-4bad-9836-dac9477a2e7b">
+
 
 ## Tech stack
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
